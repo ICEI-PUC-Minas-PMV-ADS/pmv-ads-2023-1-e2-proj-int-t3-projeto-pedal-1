@@ -1,23 +1,31 @@
-# TÍTULO DO PROJETO
+# PROJETO PEDAL
 
-`CURSO`
+`CURSO: TECNÓLOGO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`DISCIPLINA: Desenvolvimento de Aplicação Web backend - EIXO 2`
 
-`SEMESTRE`
+`SEMESTRE: 1/2023`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto busca atender aos esportistas interessados em realizar roteiros ciclísticos em meio urbano e rural. Basicamente este projeto Web backend com banco de dados procura permitir a ligação entre os usuários.
+
+Com a aplicação o usuário poderá cadastrar roteiros para passeios ciclisticos em grupo. Os usuarios interessados poderão pesquisar e realizar adesão as atividades programadas. Este aplicativo Web permitirá ainda ao usuário realizar pesquisa sobre as atividades realizadas além de obter informações sobre a índice de massa corporal e gasto energético individual em cada atividade.
+
+Esta ferramenta da ciência aos interessados dos passeios ciclísticos que estão programados, sem custo financeiro algum, estimulando assim a atividade física regular e promovendo a integração dos esportistas.  
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Adriana Aparecida Lopes Rodrigues
+* André Policarpo Paiva Miranda
+* Dionisio Tadeu de Azevedo
+* Gabriella Bradley Cusnir
+* Leonardo Rodrigues Barbosa Maia
+* Mariana Rodrigues de Souza
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* José Wilson da Costa
 
 ## Instruções de utilização
 
