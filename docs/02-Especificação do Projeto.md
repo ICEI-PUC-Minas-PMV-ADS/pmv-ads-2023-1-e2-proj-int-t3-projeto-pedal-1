@@ -1,26 +1,68 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição do problema e os pontos a serem tratados neste projeto foram formatados a partir da participação de esportistas em encontros com membros da equipe de desenvolvimento em ambientes recreativos durante as manhas dos finais de semana. Os usuários de bike relataram suas experiencias e expectativas e os dados levantados neste processo foram consolidados na forma de personas e histórias de usuários. 
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3> <img src="/docs/img/flavia.png" width=120% height=120%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td colspan=2> <h1>Flávia dos Santos</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 52 <br> <h4>Ocupação:</h4> Engenheira Civíl, é sócia de uma empresa de projetos. </td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Cuidar da saúde e se divertir;</li><li>Conhecer novas pessoas;</li></ul></td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> <ul><li>Ouvir música;</li> <li>Ler bons livros;</li></li></ul></td>
+        </tr>
+  	    <tr>
+            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Prefere resolver todas as suas necessidades por meio da internet, no momento que puder;</li> <li>Gostaria de diversificar a atividade física que realiza no período da noite;</ul></td></tr>
+       <tr>
+            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Gosta de pedalar mas se sente desmotivada por não ter companhia.</li></td></tr>
+    </tbody>
+</table>
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3> <img src="/docs/img/bruno.png" width=100% height=100%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td colspan=2> <h1>Bruno Caldeira</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 35 <br> <h4>Ocupação:</h4> Professor de alemão da fundação Goethe;</td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Propor passeios de bike para grupos;</li><li>Conhecer novas pessoas;</li></ul></td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> <ul><li>Fazer ginástica;</li> <li>Jogar Games;</li></li></ul></td>
+        </tr>
+  	    <tr>
+            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Gosta de criar roteiros diferentes de bike;</li> <li>Gostaria de reunir o maior número de pessoas e passeios de bike;</ul></td></tr>
+       <tr>
+            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Não consegue reunir pessoas para seus passeios de bike;.</li></td></tr>
+    </tbody>
+</table>
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=3> <img src="/docs/img/carlos.png" width=100% height=100%> <br> Foto de Edward Cisnero em Unsplash </td>
+            <td colspan=2> <h1>Dr. Carlos Caetano</h1> </td> 
+        </tr>
+        <tr>
+            <td rowspan=2><h4>Idade:</h4> 48 <br> <h4>Ocupação:</h4> Médico que atende em diversos hospitais;</td>
+            <td><strong>Objetivo:</strong><br> <ul><li>Preencher seu tempo vago com atividades físicas;</li><li> Conhecer novas pessoas;</li></ul></td>
+        </tr>
+        <tr>
+            <td><strong>Hobbies:</strong> <ul><li>Natação;</li> <li>Viagens;</li></li></ul></td>
+        </tr>
+  	    <tr>
+            <td colspan="3"><strong>Motivações:</strong><br> <ul><li>Se sente mais seguro pedalando em grupos;</td></tr>
+       <tr>
+            <td colspan="3"><strong>Frustrações:</strong> <ul><li>Não conhece roteiros de bike na zona rural;</li></td></tr>
+    </tbody>
+</table>
 
 ## Histórias de Usuários
 
@@ -28,17 +70,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Flávia dos Santos | Preciso fazer atividade física regular | Para manter meu peso controlado |
+|Flávia dos Santos | Necessito de motivação para atividade física | Tenho que manter a regularidade para não desanimar |
+|Bruno Caldeira | Propor roteiros diferentes de bike | Avaliar o nível de dificuldade e o público-alvo ideal para cada programação |
+|Bruno Caldeira | Conhecer o maior número de esportistas | Gostaria de montar uma empresa de atividade outdoor |
+|Dr. Carlos Caetano| Pedalar em grupos grandes | Me sinto mais seguro|
+|Dr. Carlos Caetano | Fazer peladas longas em parques nacionais/estaduais e reservas naturais | Quero ter contato com a natureza |
+|Andrea Bacelar| Preciso variar de atividade física | Meu corpo já se acomodou com as corridas  |
+|Andrea Bacelar | Preciso melhorar ainda mais minha capacidade cardiovacular | Quero me inscrever na São Silvestre |
+|Alexandre Silveira | Quero saber a quantidade de calórico gastas na atividade proposta | Para controlar minha alimentação e peso  |
+|Alexandre Silveira | Quero acompanhar meu índice de massa corporal | Para avaliar a efetividade das pedaladas na perda de peso |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -48,30 +90,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O usuário proponente deverá ser capaz de propor roteiros ciclísticos no site | ALTA | 
+|RF-002| O usuário proponente deverá ser capaz de cadastrar informações sobre o roteiro, tais como: local, data, horário, ponto de encontro e grau de dificuldadea | ALTA | 
+|RF-003| O usuário proponente deverá ser capaz de cadastrar o link do GoogleMaps para cada um dos roteiros  | ALTA |
+|RF-004| O usuário deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login | ALTA | 
+|RF-005| O usuário deverá ser capaz de fazer a adesão a determinado roteiro escolhido | ALTA |
+|RF-006| O usuário proponente deverá ser capaz de cancelar determinado roteiro escolhido | ALTA |
+|RF-007| O usuário deverá ser capaz de verificar os roterios que já realizou | MÉDIA |
+|RF-008| O usuário deverá ser capaz de verificar o colegas mais frequentes de pedalada | MÉDIA |
+|RF-009| O usuário deverá ser capaz de verificar o seu indice de massa corporal | MÉDIA |
+|RF-010| O usuário deverá ser capaz de verificar o seu gasto energético após a atividade | MÉDIA |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deverá permitir o cadastro de roteiros ciclísticos | ALTA | 
+|RNF-002| O site deverá permitir a adesão do usuário ao roteiro desejados | ALTA | 
+|RNF-003| O site deverá enviar notificação ao usuário proponente a cada adesão |  MÉDIA | 
+|RNF-004| O site deverá permitir pesquisa aos dados cadastrados | MÉDIA | 
+|RNF-005| O site deverá calcular o índice de massa corporal | BAIXA | 
+|RNF-006| O site deverá calcular o gasto calórico para determinado usuário | BAIXA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -79,25 +120,24 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 15/06/2023 |
+|02| O aplicativo deve envolver às tecnologias da Web backend, banco de dados e armazenamento em nuvem   |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho  |
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+Para o projeto em desenvolvimento foi elaborado um diagrama de casos de uso considerando 3 atores: o usuário comum, usuário proponente e sistema de login, os requisitos funcionaís e os relacionamentos. 
+
+<img src="/docs/img/casoUso.png" width=100% height=100%>
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 
+<--
 > **Links Úteis**:
 > - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
 > - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
 > - [Lucidchart](https://www.lucidchart.com/)
 > - [Astah](https://astah.net/)
 > - [Diagrams](https://app.diagrams.net/)
+-->
