@@ -106,12 +106,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deverá permitir o cadastro de roteiros ciclísticos | ALTA | 
-|RNF-002| O site deverá permitir a adesão do usuário ao roteiro desejados | ALTA | 
-|RNF-003| O site deverá enviar notificação ao usuário proponente a cada adesão |  MÉDIA | 
-|RNF-004| O site deverá permitir pesquisa aos dados cadastrados | MÉDIA | 
-|RNF-005| O site deverá calcular o índice de massa corporal | BAIXA | 
-|RNF-006| O site deverá calcular o gasto calórico para determinado usuário | BAIXA | 
+|RNF-001| A aplicação deverá permitir o cadastro de roteiros ciclísticos | ALTA | 
+|RNF-002| A aplicação deverá permitir a adesão do usuário ao roteiro desejados | ALTA | 
+|RNF-003| A aplicação deverá enviar notificação ao usuário proponente a cada adesão |  MÉDIA | 
+|RNF-004| A aplicação deverá permitir pesquisa aos dados cadastrados | MÉDIA | 
+|RNF-005| A aplicação deverá calcular o índice de massa corporal | BAIXA | 
+|RNF-006| A aplicação deverá calcular o gasto calórico para determinado usuário | BAIXA | 
 
 
 ## Restrições
