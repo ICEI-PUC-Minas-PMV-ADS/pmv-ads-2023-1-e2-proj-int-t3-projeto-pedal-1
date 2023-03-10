@@ -90,28 +90,35 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O usuário proponente deverá ser capaz de propor roteiros ciclísticos no site | ALTA | 
-|RF-002| O usuário proponente deverá ser capaz de cadastrar informações sobre o roteiro, tais como: local, data, horário, ponto de encontro e grau de dificuldadea | ALTA | 
-|RF-003| O usuário proponente deverá ser capaz de cadastrar o link do GoogleMaps para cada um dos roteiros  | ALTA |
-|RF-004| O usuário deverá ser capaz de visualizar os roteiros disponíveis no aplicativo Web sem fazer Login | ALTA | 
-|RF-005| O usuário deverá ser capaz de fazer a adesão a determinado roteiro escolhido | ALTA |
-|RF-006| O usuário proponente deverá ser capaz de cancelar determinado roteiro escolhido | ALTA |
-|RF-007| O usuário deverá ser capaz de verificar os roterios que já realizou | MÉDIA |
-|RF-008| O usuário deverá ser capaz de verificar o colegas mais frequentes de pedalada | MÉDIA |
-|RF-009| O usuário deverá ser capaz de verificar o seu indice de massa corporal | MÉDIA |
-|RF-010| O usuário deverá ser capaz de verificar o seu gasto energético após a atividade | MÉDIA |
+|RF-001| O usuário deverá visualizar os roteiros propostos, com dia, data e local, antes de logar  | ALTA | 
+|RF-002| O usuário deverá se cadastrar no sistema | ALTA | 
+|RF-003| O usuário deverá fazer login no sistema  | ALTA |
+|RF-004| O sistema deve validar o login | ALTA | 
+|RF-005| O sistema deve exibir erro de login | ALTA |
+|RF-006| O sistema deve mostrar os roteiros propostos com seus respectivos inscritos | ALTA |
+|RF-007| O sistema de mostrar o quadro de medalhas | MÉDIA |
+|RF-008| O usuário proponente deverá cadastrar roteiros | ALTA |
+|RF-009| O usuário proponente deverá cancelar roteiros | MÉDIA |
+|RF-010| O usuário proponente deverá cancelar a adesão do usuário faltoso na atividade | MÉDIA |
+|RF-011| O usuário proponente deverá cadastrar o horárico de início e fim do roteiro executado| MÉDIA |
+|RF-012| O usuário deverá aderir à determinado roteiro| ALTA |
+|RF-013| O usuário deverá cancelar sua adesão à determinado roteiro | MÉDIA |
+|RF-014| O usuário deverá pesquisar os roteiros já realizados| MÉDIA |
+|RF-015| O usuário deverá pesquisar os colegas de pedal mais companheiros| MÉDIA |
+|RF-016| O usuário deverá obter o seu índice da massa corporal| MÉDIA |
+|RF-017| O usuário deverá obter o seu gasto calórico em cada roteiro realizado| MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deverá permitir o cadastro de roteiros ciclísticos | ALTA | 
-|RNF-002| A aplicação deverá permitir a adesão do usuário ao roteiro desejados | ALTA | 
-|RNF-003| A aplicação deverá enviar notificação ao usuário proponente a cada adesão |  MÉDIA | 
-|RNF-004| A aplicação deverá permitir pesquisa aos dados cadastrados | MÉDIA | 
-|RNF-005| A aplicação deverá calcular o índice de massa corporal | BAIXA | 
-|RNF-006| A aplicação deverá calcular o gasto calórico para determinado usuário | BAIXA | 
+|RNF-001| A aplicação deverá responder ao usuário em até 5 segundos  | ALTA | 
+|RNF-002|  | ALTA | 
+|RNF-003|  |  MÉDIA | 
+|RNF-004|  | MÉDIA | 
+|RNF-005|  | BAIXA | 
+|RNF-006|  | BAIXA | 
 
 
 ## Restrições
@@ -122,7 +129,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 15/06/2023 |
 |02| O aplicativo deve envolver às tecnologias da Web backend, banco de dados e armazenamento em nuvem   |
-|03| A aplicação deverá realizada em c# eutilizar banco de dados   |
+|03| A aplicação deverá ser implementa em c# e utilizar banco de dados   |
 
 
 ## Diagrama de Casos de Uso
