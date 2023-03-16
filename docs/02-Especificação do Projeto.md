@@ -113,12 +113,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deverá responder ao usuário em até 5 segundos  | ALTA | 
-|RNF-002|  | ALTA | 
-|RNF-003|  |  MÉDIA | 
-|RNF-004|  | MÉDIA | 
-|RNF-005|  | BAIXA | 
-|RNF-006|  | BAIXA | 
+|RNF-001| O sistema deve ser fácil de usar e entender  | ALTA | 
+|RNF-002| O sistema deve ser fácil de manter e atualizar | ALTA | 
+|RNF-003| O sistema deve ser protegido contra acesso não autorizado |  ALTA | 
+|RNF-004| O sistema deve ser confiável e atender aos requisitos do usuário | MÉDIA | 
+|RNF-005| O sistema deve ter Design responsivo nas interfaces gráficas | BAIXA | 
 
 
 ## Restrições
