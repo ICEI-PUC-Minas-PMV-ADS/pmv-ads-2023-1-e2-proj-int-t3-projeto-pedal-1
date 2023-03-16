@@ -127,7 +127,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 15/06/2023 |
-|02| O aplicativo deve envolver às tecnologias da Web backend, banco de dados e armazenamento em nuvem   |
+|02| O aplicativo deve envolver às tecnologias da Web backend e armazenamento em nuvem   |
 |03| A aplicação deverá ser implementa em c# e utilizar banco de dados   |
 
 
