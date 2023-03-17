@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-A definição do problema e os pontos a serem tratados neste projeto foram formatados a partir da participação de esportistas em encontros com membros da equipe de desenvolvimento em ambientes recreativos durante as manhas dos finais de semana. Os usuários de bike relataram suas experiencias e expectativas e os dados levantados neste processo foram consolidados na forma de personas e histórias de usuários. 
+A definição do problema e os pontos a serem tratados neste projeto foram formatados a partir da participação de esportistas em encontros com membros da equipe de desenvolvimento em ambientes recreativos durante as manhãs dos finais de semana. Os usuários de bike relataram suas experiências e expectativas e os dados levantados neste processo foram consolidados na forma de personas e histórias de usuários. 
 
 ## Personas
 
