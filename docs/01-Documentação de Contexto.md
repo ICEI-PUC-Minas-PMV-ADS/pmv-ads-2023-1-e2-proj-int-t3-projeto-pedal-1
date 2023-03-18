@@ -13,11 +13,9 @@ A queima calórica varia de acordo com a atividade física escolhida. O Equivale
 
 Existem uma série de aplicativos no mercado que ocupam nichos específicos para atender um ou outro objetivo.
 
-Os aplicativos Mobile Strava e Sport Tracker determinam a distância percorrida, velocidade e armazenam o histórico dos passeios realizados. O Runtastic Mountain Bike é um aplicativo Mobile mais voltado para treinos, de maneira geral apresenta todas a funcionalidades dos apps descritos aqui e adicionalmente possui ferramentas para monitoramento de batimentos cardíacos e definição da zona de esforço físico que o atleta se encontra.O aplicativo CycleDroid Mobile apresenta compatibilidade com o Microsoft Excel de maneira que é possível exportar as informações e visualizar os dados em gráficos e planilhas. No Bike Map o usuário determina a distância que pretende percorrer e o aplicativo sugere possíveis percurso de ciclismo.
+Os aplicativos Mobile Strava e Sport Tracker determinam a distância percorrida, velocidade e armazenam o histórico dos passeios realizados. O Runtastic Mountain Bike é um aplicativo Mobile mais voltado para treinos, de maneira geral apresenta todas a funcionalidades dos apps descritos aqui e adicionalmente possui ferramentas para monitoramento de batimentos cardíacos e definição da zona de esforço físico que o atleta se encontra.O aplicativo CycleDroid Mobile apresenta compatibilidade com o Microsoft Excel de maneira que é possível exportar as informações e visualizar os dados em gráficos e planilhas. No Bike Map o usuário determina a distância que pretende percorrer e o aplicativo sugere possíveis percurso de ciclismo.Todos estes aplicativos utilizam o Sistema de Posicionamento Global para realizar os cálculos de distância e velocidade.
 
-Todos estes aplicativos utilizam o Sistema de Posicionamento Global para realizar os cálculos de distância e velocidade.
-
-Conforme proposto, o problema que se busca resolver  é uma lacuna que existe nos aplicativos,  a possibilidade de propor experiência em grupo para os usuarios em bike. 
+Porém em todos não existe uma opção de passeios em grupos, pois o foco é mais no desempenho individual de cada usuario.Conforme proposto, o problema que se busca resolver  é uma lacuna que existe nos aplicativos,  a possibilidade de propor experiência em grupo para os usuarios em bike. 
 
 
 ## Objetivos
