@@ -1,9 +1,55 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A metodologia utilizada para desenvolvimento deste projeto é constituída por três seções: Ambientes e Ferramentas, Controle de Versões e Gerenciamento do Projeto. 
+
+Inicialmente foram definidos o Ambiente e Ferramentas, isto é recursos e meios para desenvolvimento do projeto. Foram identificados os seguintes elementos: ferramenta para gerenciamento do projeto; repositório da documentação do projeto e código fonte; ferramenta para elaboração do wireframe; ferramenta para designer e implementação das páginas Web; aplicação para modelagem de banco de dados; ferramenta para desenvolvimento da aplicação backend; e armazenamento do Banco de Dados.
+
+A seguir foi definido o Git como ferramenta de controle de versão adotada no projeto [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+foi utilizado para hospedagem do repositório.
+
+Na etapa de Gerenciamento do Projeto foi inicialmente definida a equipe de trabalho composta de: <b> Product Owner</b>, responsável por definir o que é realmente importante constar no projeto; <b> Scrum Mastes </b>, responsável pela gestão do projeto, organização e distribuição das tarefas; <b> Equipe de Design </b>, responsável pelo desenho da interface; <b> Equipe de desenvolvimento HTML, CSS e JavaScript </b>, responsável pela implementação da interface Web; <b> Equipe de desenvolvimento do backend e Banco de Dados </b>; responsáveis pela implementação do banco de dados e backend além de realização dos testes. 
+
+O andamento do desenvolvimento do projeto ao longo de todas as etapas de trabalho está registrado no item <b>Processo</b>. 
+Neste documento foi identificado o <b> Product Backlog </b> e as <b> Sprints </b>. O <b> Product Backlog </b> é a relação de todas as tarefas necessárias, elaboradas e entregáveis no projeto. Os <b> Sprints </b> constitui-se de cada uma das etapas de trabalho necessárias para o desenvolvimento do projeto.
+No item <b> Processo </b> são então identificados o <b> Product Backlog </b> e detalhados os <b> Sprints </b> com o detalhamento dos entregáveis em cada tarefas. São identificados ainda os responsáveis por cada etapa de trabalho. 
+
+
+
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+
+## Ambientes e Ferramentas
+
+### Ambientes
+Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas, na tabela abaixo é apresentado a relação dos ambientes de trabalhos e seus respectivos propósitos.
+
+| AMBIENTE | PLATAFORMA DE TRABALHO | LINK DE ACESSO  |
+|---------------|----------------------------------------|------------------------|
+|Gerenciamento do Projeto | Trello | |
+|Repositório da documentação do projeto | Github Project   | https://github.com/ICEI-PUC-Minas-PMV-ADS/  |
+|Repositório do código fonte| Github Project   | https://github.com/ICEI-PUC-Minas-PMV-ADS/  |
+|Ferramenta para elaboração do wireframe| AutoCad 2022  | -/blob/main/docs/Pedal.dwg |
+|Ferramenta para designer das páginas Web | Adobe Ilustrator | |
+|Ferramenta para implementação das páginas Web | Visual Studio Code | |
+|Modelagem de Banco de Dados | Entity Framework  |  |
+|Desenvolvimento da aplicação backend  | Visual Studio 2022  |  |
+|Armazenamento do Banco de Dados | Entity Framework  |  |
+
+### Ferramentas
+
+Foram utilizados um conjunto de ferramentas para implementação das diversas etapas do projeto. A seguir são apresentadas as ferramentas utilizadas em cada etapa.
+
+`Ferramentas de Integração do Grupo`:  WhatsApp e Micrisoft Teams <br>
+`Desenho do Wireframe`: AutoCad 2022 <br>
+`Designer das Telas`: Adobe Ilustrator <br>
+`Implementação das páginas Web (HTML, CSS e JavaScript)`:  Visual Studio Code <br>
+`Modelagem e implementação do Banco de Dados`:  Entity Framework <br>
+`Implementação do backend `:  Visual Studio 2022 <br>
+
+
+A integração do grupo foi preferencialmente realizada pelo WhastApp pela praticidade e velocidade de comunicação que essa ferramenta oferece, algumas reuniões foram realizadas no Teams. Para elaboração do wireframe foi utilizado o AutoCad pelos recursos de desenho que o CAD oferece. A implementação das páginas Web foi realizada no Visual Studio Code por ser de conhecimento do grupo. 
+
 
 ## Controle de Versão
 
@@ -59,19 +105,7 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
-### Ferramentas
 
-Foram utilizados um conjunto de ferramentas para implementação das diversas etapas do projeto. A seguir são apresentadas as ferramentas utilizadas em cada etapa.
-
-`Ferramentas de Integração do Grupo`:  WhatsApp e Micrisoft Teams <br>
-`Desenho do Wireframe`: AutoCad 2022 <br>
-`Designer das Telas`: Adobe Ilustrator <br>
-`Implementação das páginas Web (HTML, CSS e JavaScript)`:  Visual Studio Code <br>
-`Modelagem e implementação do Banco de Dados`:  Entity Framework <br>
-`Implementação do backend `:  Visual Studio 2022 <br>
-
-
-A integração do grupo foi preferencialmente realizada pelo WhastApp pela praticidade e velocidade de comunicação que essa ferramenta oferece, algumas reuniões foram realizadas no Teams. Para elaboração do wireframe foi utilizado o AutoCad pelos recursos de desenho que o CAD oferece. A implementação das páginas Web foi realizada no Visual Studio Code por ser de conhecimento do grupo. 
 
 
 <!---
