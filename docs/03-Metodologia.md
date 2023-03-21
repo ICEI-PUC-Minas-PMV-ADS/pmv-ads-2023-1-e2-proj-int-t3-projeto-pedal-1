@@ -71,7 +71,7 @@ Foram utilizados um conjunto de ferramentas para implementação das diversas et
 `Implementação do backend `:  Visual Studio 2022 <br>
 
 
-A ferramenta de integração do grupo mais utilizada foi o WhastApp para praticidade e velocidade de comunicação, algumas reuniões foram realizadas no Teams. Para elaboração do wireframe foi utilizado o AutoCad pelos recursos de desenho que esta ferramenta Cad oferece. A implementação das páginas Web foi realizada no Visual Studio Code por ser de conhecimento do grupo. 
+A integração do grupo foi preferencialmente realizada pelo WhastApp pela praticidade e velocidade de comunicação que essa ferramenta oferece, algumas reuniões foram realizadas no Teams. Para elaboração do wireframe foi utilizado o AutoCad pelos recursos de desenho que o CAD oferece. A implementação das páginas Web foi realizada no Visual Studio Code por ser de conhecimento do grupo. 
 
 
 <!---
