@@ -106,9 +106,9 @@ Foi escolhido o Trello como ambiente para gestão do projeto.
 
 Evidências:
 <ul>
-<li><b>Documentação de Contexto:</b> Constituída de caracterização do problema, identificação dos objetivos gerais e específicos, justificativa e público-alvo. </li>
+<li><b>Documentação de Contexto:</b> Constituída de caracterização do problema, identificação dos objetivos gerais e específicos, justificativa e público-alvo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md</li>
  
-<li><b>Especificação do Projeto:</b> Identificação das personas, história de usuários, requisitos funcionais, não funcionais e restrições do projeto. </li>
+<li><b>Especificação do Projeto:</b> Identificação das personas, história de usuários, requisitos funcionais, não funcionais e restrições do projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md</li>
  
 <img src="/docs/img/Sprint_1.png" width=80% height=50%>
 </ul>
