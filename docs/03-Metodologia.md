@@ -25,7 +25,7 @@ Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas, n
 |Gerenciamento do Projeto | Trello | |
 |Repositório da documentação do projeto | Github Project   | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1 |
 |Repositório do código fonte| Github Project   | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/src|
-|Ferramenta para elaboração do wireframe| AutoCad 2022  | -/blob/main/docs/Pedal.dwg |
+|Ferramenta para elaboração do wireframe| AutoCad 2022  | [-/blob/main/docs](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/docs/Pedal.dwg |
 |Ferramenta para designer das páginas Web | Adobe Ilustrator | |
 |Ferramenta para implementação das páginas Web | Visual Studio Code | |
 |Modelagem de Banco de Dados | Entity Framework  |  |
