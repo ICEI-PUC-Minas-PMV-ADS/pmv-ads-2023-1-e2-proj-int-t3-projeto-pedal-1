@@ -12,12 +12,8 @@ Na etapa de Gerenciamento do Projeto foi inicialmente definida a equipe de traba
 
 O andamento do desenvolvimento do projeto ao longo de todas as etapas de trabalho está registrado no item <b>Processo</b>. 
 Neste documento foi identificado o <b> Product Backlog </b> e as <b> Sprints </b>. O <b> Product Backlog </b> é a relação de todas as tarefas necessárias, elaboradas e entregáveis no projeto. Os <b> Sprints </b> constitui-se de cada uma das etapas de trabalho necessárias para o desenvolvimento do projeto.
-No item <b> Processo </b> são então identificados o <b> Product Backlog </b> e detalhados os <b> Sprints </b> com o detalhamento dos entregáveis em cada tarefas. São identificados ainda os responsáveis por cada etapa de trabalho. 
+No item <b> Processo </b> são então identificados o <b> Product Backlog </b> e identificados os <b> Sprints </b> com o detalhamento dos entregáveis em cada tarefas. São identificados ainda os responsáveis por cada etapa de trabalho. 
 
-
-
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ## Ambientes e Ferramentas
 
