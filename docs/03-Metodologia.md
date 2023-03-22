@@ -93,7 +93,7 @@ Para realizar esse backlog foram necessárias cinco Strints descritas a seguir.
 
 <b>Sprint 1:</b> 
 
-<b>Planejamento:</b> Uma vez iniciado alinhamento da equipe de trabalho através de troca de mensagens do grupo de trabalho elaborado no foi idealizada a fase inicial de trabalho: Análise do Projeto e Especificação de Requisitos. F
+<b>Planejamento:</b> Uma vez iniciado alinhamento da equipe de trabalho através de troca de mensagens do grupo de trabalho elaborado no foi idealizada a fase inicial de trabalho: Metodologia e Especificação do Projeto.
 
 <b>Execução:</b> Foi realizada entrevista com usuários de bike nas manhãs dos finais de semana com objetivo de conhecer suas demandas e pesquisa bibliográfica o tema e aplicativos disponíveis para este setor. De posse dos artigos pesquisados foi elaborada a documentação de contexto, com caracterização do problema e identificação dos objetivos gerais e específicos, justificativa e o público-alvo. A seguir foi realizada a especificação do projeto, identificando: as personas; histórias de usuários; definição dos requisitos funcionais, não funcionais e restrições; e elaborado os Casos de Uso. 
 Foi escolhido o Trello como ambiente para gestão do projeto.
