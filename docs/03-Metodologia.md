@@ -5,7 +5,7 @@ A metodologia utilizada para desenvolvimento deste projeto é constituída por t
 
 Inicialmente foram definidos o Ambiente e Ferramentas, isto é recursos e meios para desenvolvimento do projeto. Foram identificados os seguintes elementos: ferramenta para gerenciamento do projeto; repositório da documentação do projeto e código fonte; ferramenta para elaboração do wireframe; ferramenta para designer e implementação das páginas Web; aplicação para modelagem de banco de dados; ferramenta para desenvolvimento da aplicação backend; e armazenamento do Banco de Dados.
 
-A seguir foi definido o Git como ferramenta de controle de versão adotada no projeto [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+A seguir foi definido o [Git](https://git-scm.com/) como ferramenta de controle de versão adotada no projeto, sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
 Na etapa de Gerenciamento do Projeto foi inicialmente definida a equipe de trabalho composta de: <b> Product Owner</b>, responsável por definir o que é realmente importante constar no projeto; <b> Scrum Mastes </b>, responsável pela gestão do projeto, organização e distribuição das tarefas; <b> Equipe de Design </b>, responsável pelo desenho da interface; <b> Equipe de desenvolvimento HTML, CSS e JavaScript </b>, responsável pela implementação da interface Web; <b> Equipe de desenvolvimento do backend e Banco de Dados </b>; responsáveis pela implementação do banco de dados e backend além de realização dos testes. 
@@ -26,10 +26,10 @@ Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas, n
 |Repositório da documentação do projeto | Github Project   | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1 |
 |Repositório do código fonte| Github Project   | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/src|
 |Ferramenta para elaboração do wireframe| AutoCad 2022  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/docs/Pedal.dwg |
-|Ferramenta para designer das páginas Web | Adobe Ilustrator | |
-|Ferramenta para implementação das páginas Web | Visual Studio Code | |
+|Ferramenta para designer das páginas Web | Adobe Ilustrator | https://www.adobe.com/br/products/illustrator/ |
+|Ferramenta para implementação das páginas Web | Visual Studio Code |https://code.visualstudio.com/ |
 |Modelagem de Banco de Dados | Entity Framework  |  |
-|Desenvolvimento da aplicação backend  | Visual Studio 2022  |  |
+|Desenvolvimento da aplicação backend  | Visual Studio 2022  |https://visualstudio.microsoft.com/  |
 |Armazenamento do Banco de Dados |  |  |
 
 ### Ferramentas
