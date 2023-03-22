@@ -113,6 +113,23 @@ Evidências:
 <img src="/docs/img/Sprint_1.png" width=80% height=50%>
 </ul>
 
+<b>Sprint 2:</b>
+
+<b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. A gestão incremental do projeto foi continuada no Trello. 
+ 
+<b>Execução:</b> Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2022 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. 
+
+Evidências:
+
+<ul>
+<li><b>Metodologia:</b> Composição da equipe de trabalho, Ferramentas e Processo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/03-Metodologia.md</li>
+
+<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-projeto-petcare/blob/main/docs/04-Projeto%20de%20Interface.md</li>
+ 
+<li>Desenvolvimento dos wireframes e diagrama de fluxo para o projeto Web Front End utilizando o AutoCad 2022.</li> 
+ 
+<img src="/docs/img/Sprint_2.png" width=80% height=50%>
+</ul>
 
 
 
