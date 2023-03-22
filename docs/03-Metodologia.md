@@ -116,7 +116,7 @@ Evidências:
 Evidências:
 
 <ul>
-<li><b>Metodologia:</b> Composição da equipe de trabalho, Ferramentas e Processo. </li>
+<li><b>Metodologia:</b> Ambientes e Ferramentas, Controle de Versões e Gerenciamento de Projeto. </li>
 
 <li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. </li>
  
