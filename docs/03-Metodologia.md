@@ -93,13 +93,25 @@ A equipe está organizada da seguinte maneira:
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+O backlog do projeto foi constituído de uma série de entregáveis distribuídos nas seguintes etapas: Documentação de Contexto, Especificação de projeto, Metodologia, Projeto de Interface, Arquitetura de Solução, Template do Site, Programação de Funcionalidades, Plano de Testes de Software, Apresentação do Projeto e Referências.
+
+Para realizar esse backlog foram necessárias cinco Strints descritas a seguir.
+
+<b>Sprint 1:</b> 
+
+<b>Planejamento:</b> Uma vez iniciado alinhamento da equipe de trabalho através de troca de mensagens do grupo de trabalho elaborado no foi idealizada a fase inicial de trabalho: Análise do Projeto e Especificação de Requisitos. F
+
+<b>Execução:</b> Foi realizada entrevista com usuários de bike nas manhãs dos finais de semana com objetivo de conhecer suas demandas e pesquisa bibliográfica o tema e aplicativos disponíveis para este setor. De posse dos artigos pesquisados foi elaborada a documentação de contexto, com caracterização do problema e identificação dos objetivos gerais e específicos, justificativa e o público-alvo. A seguir foi realizada a especificação do projeto, identificando: as personas; histórias de usuários; definição dos requisitos funcionais, não funcionais e restrições; e elaborado os Casos de Uso. 
+Foi escolhido o Trello como ambiente para gestão do projeto.
+
+Evidências:
+<ul>
+<li><b>Documentação de Contexto:</b> Constituída de caracterização do problema, identificação dos objetivos gerais e específicos, justificativa e público-alvo. </li>
  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+<li><b>Especificação do Projeto:</b> Identificação das personas, história de usuários, requisitos funcionais, não funcionais e restrições do projeto. </li>
+ 
+<img src="/docs/img/Sprint_1.png" width=80% height=50%>
+</ul>
 
 
 
