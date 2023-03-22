@@ -22,7 +22,7 @@ Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas, n
 
 | AMBIENTE | PLATAFORMA DE TRABALHO | LINK DE ACESSO  |
 |---------------|----------------------------------------|------------------------|
-|Gerenciamento do Projeto | Trello | |
+|Gerenciamento do Projeto | Trello | https://trello.com/b/IhbUJidy/pedal |
 |Repositório da documentação do projeto | Github Project   | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1 |
 |Repositório do código fonte| Github Project   | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/src|
 |Ferramenta para elaboração do wireframe| AutoCad 2022  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/docs/Pedal.dwg |
@@ -30,7 +30,7 @@ Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas, n
 |Ferramenta para implementação das páginas Web | Visual Studio Code | |
 |Modelagem de Banco de Dados | Entity Framework  |  |
 |Desenvolvimento da aplicação backend  | Visual Studio 2022  |  |
-|Armazenamento do Banco de Dados | Entity Framework  |  |
+|Armazenamento do Banco de Dados |  |  |
 
 ### Ferramentas
 
