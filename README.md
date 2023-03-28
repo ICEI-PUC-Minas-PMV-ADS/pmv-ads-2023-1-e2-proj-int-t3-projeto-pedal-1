@@ -19,9 +19,7 @@ Esta ferramenta dá ciência aos interessados dos passeios ciclísticos que est�
 * André Policarpo Paiva Miranda
 * Dionisio Tadeu de Azevedo
 * Gabriella Bradley Cusnir
-* Leonardo Rodrigues Barbosa Maia
 * Mariana Rodrigues de Souza
-* Rodrigo da Cunha Gatti
 
 
 ## Orientador
