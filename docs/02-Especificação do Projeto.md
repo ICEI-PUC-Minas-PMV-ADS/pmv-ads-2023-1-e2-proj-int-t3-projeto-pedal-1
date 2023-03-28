@@ -134,12 +134,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Diagrama de Casos de Uso
 
 Para o projeto em desenvolvimento foi elaborado um diagrama de casos de uso considerando 3 atores: o usuário comum, usuário proponente e sistema de login, os requisitos funcionaís e os relacionamentos. 
-<--
-<img src="/docs/img/casodeuso1.png" width=100% height=100%>
-<img src="/docs/img/casodeuso2.png" width=100% height=100%>
-<img src="/docs/img/casodeuso3.png" width=100% height=100%>
-<img src="/docs/img/casodeuso4.png" width=100% height=100%>
--->
+
 <img src="/docs/img/casoUso.PNG" width=100% height=100%>
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
