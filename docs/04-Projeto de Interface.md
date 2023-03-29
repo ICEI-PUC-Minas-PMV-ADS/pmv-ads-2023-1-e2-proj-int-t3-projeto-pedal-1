@@ -9,9 +9,17 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+O artefato diagrama de fluxo do Projeto Pedal foi elaborado considerando a interação entre o usuário comum, usuário proponente e o sistema. 
 
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
+O fluxo de inicia com o carregamento da página do projeto, neste momento é apresentado de maneira simplificada para o usuário as opções de roteiros já cadastrados no sistema.
+
+Após realizar o login ou cadastro inicial o usuário é direcionado para página principal onde poderá visualizar os detalhes de cada uma das opções de roteiro disponíveis, com a lista de participantes já inscritos e o quadro de medalhas que apresenta os três usuários com mais km pedalado. O usuário poderá ainda realizar sua adesão a determinado roteiro de interesse. 
+
+A seguir o usuário poderá consultar seu histórico de participação, isto é quais roterios já participou, com quem mais pedalou e ainda obter informações sobre seu índice de massa corporal e gasto calórico em determinado roteiro realizado. 
+
+Poderá também propor um novo roteiro, cancelar alguma atividade ou excluir participante faltoso de alguam atividade que ele próprio propos. 
+
+Segue o diagrama de fluxo do Projeto Pedal.
 
 ![Exemplo de Diagrama de Fluxo](img/fluxogramaProjetoPedal_3.png)
 
