@@ -112,6 +112,8 @@ Evidências:
 <li><b>Especificação do Projeto:</b> Identificação das personas, história de usuários, requisitos funcionais, não funcionais e restrições do projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md</li><br>
  
 <img src="/docs/img/evidencia_1.png" width=80% height=50%>
+ 
+<img src="/docs/img/evidencia_2.png" width=80% height=50%>
 </ul>
 
 <b>Sprint 2:</b>
