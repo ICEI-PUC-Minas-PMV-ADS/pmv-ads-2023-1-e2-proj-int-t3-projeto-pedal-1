@@ -98,7 +98,7 @@ Para realizar esse backlog foram necessárias cinco Strints descritas a seguir.
 
 <b>Sprint 1:</b> 
 
-<b>Planejamento:</b> Uma vez iniciado alinhamento da equipe de trabalho através de troca de mensagens do grupo de trabalho elaborado no foi idealizada a fase inicial de trabalho: Metodologia e Especificação do Projeto.
+<b>Planejamento:</b> Uma vez iniciado alinhamento da equipe de trabalho através de troca de mensagens do grupo de trabalho elaborado no foi idealizada a fase inicial de trabalho: Metodologia, Especificação do Projeto e iniciada e Metodologia.
 
 <b>Execução:</b> Foi realizada entrevista com usuários de bike nas manhãs dos finais de semana com objetivo de conhecer suas demandas e pesquisa bibliográfica o tema e aplicativos disponíveis para este setor. De posse dos artigos pesquisados foi elaborada a documentação de contexto, com caracterização do problema e identificação dos objetivos gerais e específicos, justificativa e o público-alvo. A seguir foi realizada a especificação do projeto, identificando: as personas; histórias de usuários; definição dos requisitos funcionais, não funcionais e restrições; e elaborado os Casos de Uso. 
 Foi escolhido o Trello como ambiente para gestão do projeto.
@@ -114,9 +114,9 @@ Evidências:
 
 <b>Sprint 2:</b>
 
-<b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. A gestão incremental do projeto foi continuada no Trello. 
+<b>Planejamento:</b> Neste Sprint foi dado continuidade no desenvolvimento da Metodologia e elaborados os itens Projeto de Interface e Plano de Teste de Software e de Usuabilidade.
  
-<b>Execução:</b> Nesta etapa foram elaborados os seguintes artefatos: diagrama de classes, diagrama de fluxo, wireframes, modelo de entidade relacionamento, modelo físico do banco de dados, plano de testes de software e de usabilidade. 
+<b>Execução:</b> A Metodologia foi atualizada em relação ao andamento do projeto. Em relação a Projeto de Interface forma elaborados os artefatos: diagrama de classes, diagrama de fluxo, wireframes, modelo de entidade relacionamento, modelo físico do banco de dados. Foi elaborado ainda uma primeira versão do plano de testes de software e de usabilidade. 
 
 
 Evidências:
