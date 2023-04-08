@@ -116,7 +116,8 @@ Evidências:
 
 <b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. A gestão incremental do projeto foi continuada no Trello. 
  
-<b>Execução:</b> Nesta etapa foram definidos as ferramentas de trabalho e identificado a função de cada componente do grupo no projeto. Foram também elaborados os seguintes artefatos: diagrama de classes, diagrama de fluxo, modelo de entidade relacionamento e modelo físico do banco de dados. 
+<b>Execução:</b> Nesta etapa foram elaborados os seguintes artefatos: diagrama de classes, diagrama de fluxo, wireframes, modelo de entidade relacionamento, modelo físico do banco de dados, plano de testes de software e de usabilidade. 
+
 
 Evidências:
 
