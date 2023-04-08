@@ -27,11 +27,12 @@ Os artefatos do projeto serão desenvolvidos a partir de diversas plataformas, n
 |Repositório do código fonte| Github Project   | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/src|
 |Ferramenta para elaboração do caso de uso| AutoCad 2022  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/docs/img/casoUso.PNG |
 |Ferramenta para elaboração do Diagrama de Fluxo | Bizagi Modeler  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/docs/img/fluxogramaProjetoPedal_3.png|
-|Ferramenta para elaboração do wireframe| AutoCad 2022  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/docs/Pedal.dwg |
+|Ferramenta para elaboração do wireframe| AutoCad 2022  | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/tree/main/docs/Pedal.dwg ||Ferramenta para designer das páginas Web | Adobe Ilustrator | https://www.adobe.com/br/products/illustrator/ |
+|Ferramenta para elaboração do modelo lógico de entidade relacionamento| MySQL Workbench 8.0CE | https://www.adobe.com/br/products/illustrator/ |
 |Ferramenta para designer das páginas Web | Adobe Ilustrator | https://www.adobe.com/br/products/illustrator/ |
 |Ferramenta para implementação das páginas Web | Visual Studio Code |https://code.visualstudio.com/ |
 |Modelagem de Banco de Dados | Entity Framework  |  |
-|Desenvolvimento da aplicação backend  | Visual Studio 2022  |https://visualstudio.microsoft.com/  |
+|Desenvolvimento da aplicação backend  | Visual Studio 2019  |https://visualstudio.microsoft.com/  |
 |Armazenamento do Banco de Dados |  |  |
 
 ### Ferramentas
