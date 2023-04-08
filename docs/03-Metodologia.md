@@ -116,7 +116,7 @@ Evidências:
 
 <b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. A gestão incremental do projeto foi continuada no Trello. 
  
-<b>Execução:</b> Os wireframes e o diagrama de fluxo foram elaborados utilizando o AutoCad 2022 pelo fato de ser um software de conhecimento do grupo, a desvantagem desta escolha foi o maior trabalho na implementação das páginas em html e CSS. 
+<b>Execução:</b> Nesta etapa foram definidos as ferramentas de trabalho e identificado a função de cada componente do grupo no projeto. Foram também elaborados os seguintes artefatos: diagrama de classes, diagrama de fluxo, modelo de entidade relacionamento e modelo físico do banco de dados. 
 
 Evidências:
 
@@ -129,7 +129,22 @@ Evidências:
 <img src="/docs/img/evidencia_2.png" width=80% height=50%>
 </ul>
 
+<b>Sprint 3:</b>
 
+<b>Planejamento:</b> Foi determinada as funções de cada componente do grupo de acordo com suas habilidades, definido o ambiente de trabalho e identificação do backlog e etapas do processo. Para projeto de interface foram elaborados o wireframe das telas e definido o fluxo de interação entre elas. A gestão incremental do projeto foi continuada no Trello. 
+ 
+<b>Execução:</b> Nesta etapa foram definidos as ferramentas de trabalho e identificado a função de cada componente do grupo no projeto. Foram também elaborados os seguintes artefatos: diagrama de classes, diagrama de fluxo, modelo de entidade relacionamento e modelo físico do banco de dados. 
+
+Evidências:
+
+<ul>
+<li><b>Metodologia:</b> Ambientes e Ferramentas, Controle de Versões e Gerenciamento de Projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/03-Metodologia.md</li>
+
+<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/04-Projeto%20de%20Interface.md</li><br>
+
+ 
+<img src="/docs/img/evidencia_2.png" width=80% height=50%>
+</ul>
 
 <!---
 
