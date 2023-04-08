@@ -103,6 +103,8 @@ Para realizar esse backlog foram necessárias cinco Strints descritas a seguir.
 <b>Execução:</b> Foi realizada entrevista com usuários de bike nas manhãs dos finais de semana com objetivo de conhecer suas demandas e pesquisa bibliográfica o tema e aplicativos disponíveis para este setor. De posse dos artigos pesquisados foi elaborada a documentação de contexto, com caracterização do problema e identificação dos objetivos gerais e específicos, justificativa e o público-alvo. A seguir foi realizada a especificação do projeto, identificando: as personas; histórias de usuários; definição dos requisitos funcionais, não funcionais e restrições; e elaborado os Casos de Uso. 
 Foi escolhido o Trello como ambiente para gestão do projeto.
 
+<b>Diificuldades:</b> Houverão dificuldades na elaboração do Pitch do Projeto.
+
 Evidências:
 <ul>
 <li><b>Documentação de Contexto:</b> Constituída de caracterização do problema, identificação dos objetivos gerais e específicos, justificativa e público-alvo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md</li>
