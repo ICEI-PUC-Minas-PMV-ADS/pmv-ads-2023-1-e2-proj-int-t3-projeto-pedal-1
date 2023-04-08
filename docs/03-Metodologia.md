@@ -44,7 +44,8 @@ Foram utilizados um conjunto de ferramentas para implementação das diversas et
 `Desenho do Wireframe`: AutoCad 2022 <br>
 `Designer das Telas`: Adobe Ilustrator <br>
 `Implementação das páginas Web (HTML, CSS e JavaScript)`:  Visual Studio Code <br>
-`Modelagem e implementação do Banco de Dados`:  Entity Framework <br>
+`Modelagem lógica e física do Banco de Dados`:  MySQL Workbench <br>
+`Framework Banco de Dados/C#`:  Entity Framework <br>
 `Implementação do backend `:  Visual Studio 2022 <br>
 
 
