@@ -18,7 +18,7 @@ Poderá também propor um novo roteiro, cancelar alguma atividade ou excluir par
 
 Segue o diagrama de fluxo do Projeto Pedal.
 
-![Exemplo de Diagrama de Fluxo](img/fluxogramaProjetoPedal_3.png)
+![Exemplo de Diagrama de Fluxo](img/diagramaFluxo.png)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
