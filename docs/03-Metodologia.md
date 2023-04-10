@@ -118,6 +118,30 @@ Evidências:
 
 <b>Sprint 2:</b>
 
+<b>Planejamento:</b> Neste Sprint serão elaborados o projeto da interface e a arquitetura da solução. O projeto da interface apresenta a visão geral da interação entre o usuário e as telas do sistema. A arquitetura da solução mostra como o software foi estruturado em termos de classes, modelagem de entidade-relacionamento, banco de dados e hospedagem da base de dados.
+ 
+<b>Execução:</b> O diagrama de fluxo apresentado foi elaborado na ferramenta Bizagi Modeler. Os wireframes foram elaborados no AutoCad, o diagrama de classes foi elaborado no Lucidchart e o Modelo de Entidade Relacionamento foi confeccionado MySQL workbench.
+
+
+Evidências:
+
+<ul>
+<li><b>Metodologia:</b> Ambientes e Ferramentas, Controle de Versões e Gerenciamento de Projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/03-Metodologia.md</li>
+
+<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/04-Projeto%20de%20Interface.md</li><br>
+
+ 
+<img src="/docs/img/evidencia_2.png" width=80% height=50%>
+</ul>
+
+
+
+
+
+
+
+<b>Sprint 2:</b>
+
 <b>Planejamento:</b> Neste Sprint foi dado continuidade no desenvolvimento da Metodologia e elaborados os itens Projeto de Interface e Plano de Teste de Software e de Usuabilidade. A elaboração dos diagramas, modelos ER e wireframes proporcionará maior imersão dos componentes do grupo em relação ao tema de trabalho.  
  
 <b>Execução:</b> A Metodologia foi atualizada em relação ao andamento do projeto. Em relação a Projeto de Interface forma elaborados os artefatos: diagrama de classes, diagrama de fluxo, wireframes, modelo de entidade relacionamento, modelo físico do banco de dados. Foi elaborado ainda uma primeira versão do plano de testes de software e de usabilidade. 
