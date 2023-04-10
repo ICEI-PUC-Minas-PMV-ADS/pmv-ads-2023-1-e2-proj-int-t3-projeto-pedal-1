@@ -3,6 +3,10 @@
 
 A seguir são apresentados o diagrama de fluxo e o wireframe elaborados para o Projeto Pedal. 
 
+O diagrama de fluxo mostra a interação do usuário com o sistema, é concebido a partir de "boxes" que possuem a indicação dos principais elementos da interface e as conexões ou caminhos que representam os diversos fluxos possiveis dentro do sistema. 
+
+Os wireframes são prototipos da interface do sistema, representam um esboço da estrutura do site e apresentando o relacionamento entre as páginas. 
+
 
 ## Diagrama de Fluxo
 
@@ -20,10 +24,6 @@ Segue o diagrama de fluxo do Projeto Pedal.
 
 ![Exemplo de Diagrama de Fluxo](img/diagramaFluxo.png)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
 
