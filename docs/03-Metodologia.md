@@ -146,7 +146,7 @@ Evidências:
 <ul>
 <li><b>Metodologia:</b> Ambientes e Ferramentas, Controle de Versões e Gerenciamento de Projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md</li>
 
-<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/04-Projeto%20de%20Interface.md</li><br>
+<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md</li><br>
 
  
 <img src="/docs/img/evidencia_2.png" width=80% height=50%>
