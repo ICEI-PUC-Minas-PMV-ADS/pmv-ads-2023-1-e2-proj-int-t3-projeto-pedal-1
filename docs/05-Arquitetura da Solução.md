@@ -2,7 +2,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação. 
+
+Neste item são apresentados o diagrama de classe, modelo Entidade-Relacionamento (projeto conceitual) e projeto da base de dados, além da tecnologia e ambiente utilizado na hospedagem dos dados. 
 
 ## Diagrama de Classes
 
