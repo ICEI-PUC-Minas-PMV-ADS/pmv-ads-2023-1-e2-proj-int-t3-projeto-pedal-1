@@ -27,9 +27,9 @@ Segue o diagrama de fluxo do Projeto Pedal.
 
 ## Wireframes
 
-![Exemplo de Diagrama de Fluxo](img/wire_1.png)
-![Exemplo de Diagrama de Fluxo](img/wire_2.png)
-![Exemplo de Diagrama de Fluxo](img/wire_3.png)
-![Exemplo de Diagrama de Fluxo](img/wire_4.png)
-![Exemplo de Diagrama de Fluxo](img/wire_5.png)
+<img src="/docs/img/wire_1.png" width=100% height=100%>
+<img src="/docs/img/wire_2.png" width=100% height=100%>
+<img src="/docs/img/wire_3.png" width=100% height=100%>
+<img src="/docs/img/wire_4.png" width=100% height=100%>
+<img src="/docs/img/wire_5.png" width=100% height=100%>
 
