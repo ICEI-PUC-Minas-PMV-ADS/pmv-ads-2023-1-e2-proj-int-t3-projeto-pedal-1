@@ -27,6 +27,12 @@ Segue o diagrama de fluxo do Projeto Pedal.
 
 ## Wireframes
 
+![Exemplo de Diagrama de Fluxo](img/wire_1.png)
+![Exemplo de Diagrama de Fluxo](img/wire_2.png)
+![Exemplo de Diagrama de Fluxo](img/wire_3.png)
+![Exemplo de Diagrama de Fluxo](img/wire_4.png)
+![Exemplo de Diagrama de Fluxo](img/wire_5.png)
+
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
