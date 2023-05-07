@@ -126,7 +126,7 @@ Evidências:
 <ul>
 <li><b>Metodologia:</b> Ambientes e Ferramentas, Controle de Versões e Gerenciamento de Projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/03-Metodologia.md</li>
 
-<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/04-Projeto%20de%20Interface.md</li><br>
+<li><b>Projeto de Interface:</b> Wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/04-Projeto%20de%20Interface.md</li><br>
 
  
 <img src="/docs/img/sprint_2.png" width=80% height=50%>
@@ -142,15 +142,15 @@ Evidências:
 Evidências:
 
 <ul>
-<li><b>Metodologia:</b> Ambientes e Ferramentas, Controle de Versões e Gerenciamento de Projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md</li>
+<li><b>Plano de Testes de Software:</b> Ambientes e Ferramentas, . https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md</li>
 
-<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md</li><br>
+<li><b>Plano de Testes de Usabilidade:</b> wireframe . https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md</li><br>
 
  
 <img src="/docs/img/sprint_3.png" width=80% height=50%>
 </ul>
 
-<b>Sprint 3:</b>
+<b>Sprint 4:</b>
 
 <b>Planejamento:</b> Neste Sprint foi realizado o desenvolvimento Web Back-End, desenvolvidos os layouts da aplicação e realizados os testes de software e usabilidade.
  
