@@ -83,7 +83,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe está organizada da seguinte maneira:
 
 `Product Owner`:   Vagner Campelo <br>
-`Scrum Master`: ........ <br>
+`Scrum Master`: Dionísio <br>
 `Equipe de design `:   Adriana, André, Dionísio e Mariana <br>
 `Equipe desenvolvimento HTML, CSS e JavaScript`:   Adriana, André, Gabriela e Mariana <br>
 `Equipe de desenvolvimento backend e Banco de Dados`:   André, Dionisio, Gabriela e Mariana <br>
