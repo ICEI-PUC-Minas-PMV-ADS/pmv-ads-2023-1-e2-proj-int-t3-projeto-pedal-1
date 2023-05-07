@@ -166,6 +166,7 @@ Registro de Testes de Software: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ad
 
 Registro de Testes de Usabilidade: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/11-Registro%20de%20Testes%20de%20Usabilidade.md
 </ul>
+<img src="/docs/img/sprint_4.png" width=80% height=50%>
 
 
 
