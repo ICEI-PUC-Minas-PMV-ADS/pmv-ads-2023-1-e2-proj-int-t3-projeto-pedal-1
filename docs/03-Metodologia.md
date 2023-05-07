@@ -135,7 +135,7 @@ Evidências:
 
 <b>Sprint 3:</b>
 
-<b>Planejamento:</b> Neste Sprint foram elaborados os planos e registros de testes de software e de usabilidade. interativa com o usuário.
+<b>Planejamento:</b> Neste Sprint foram elaborados os planos e registros de testes de software e de usabilidade.
  
 <b>Execução:</b> Para elaboração do plano de testes de software foram escolhidos cenários compatíveis com os requisitos estabelecidos no projeto. O plano de testes de usabilidade avaliará a qualidade da interface da aplicação 
 
@@ -150,21 +150,21 @@ Evidências:
 <img src="/docs/img/sprint_3.png" width=80% height=50%>
 </ul>
 
-<b>Sprint 4:</b>
+Sprint 4:
 
-<b>Planejamento:</b> Neste Sprint foi realizado o desenvolvimento Web Back-End, desenvolvidos os layouts da aplicação e realizados os testes de software e usabilidade.
- 
-<b>Execução:</b> O desenvolvimento Web Back-End foi realizado Para elaboração do plano de testes de software foram escolhidos cenários compatíveis com os requisitos estabelecidos no projeto. O plano de testes de usabilidade avaliará a qualidade da interface da aplicação 
+Planejamento: Neste Sprint foi realizado o desenvolvimento Web Back-End, a elaboração do template padrão da aplicação e registro de teste de software e de usabilidade.
+
+Execução: Para desenvolvimento da aplicação foi utilizado o Framework ASP.NET Core MVC e o Entity Framework que dá suporte ao desenvolvimento da aplicativos orientados a dados. Os testes foram realizados na aplicação desenvolvida no ambiente do Visual Studio 2019. 
 
 Evidências:
 
-<ul>
-<li><b>Metodologia:</b> Ambientes e Ferramentas, Controle de Versões e Gerenciamento de Projeto. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md</li>
+Desenvolvimento Web Back-End:  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/src/README.md
 
-<li><b>Projeto de Interface:</b> wireframe e diagrama de fluxo. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md</li><br>
+Template Padrão da Aplicação: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/06-Template%20Padr%C3%A3o%20da%20Aplica%C3%A7%C3%A3o.md
 
- 
-<img src="/docs/img/sprint_3.png" width=80% height=50%>
+Registro de Testes de Software: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/09-Registro%20de%20Testes%20de%20Software.md
+
+Registro de Testes de Usabilidade: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/11-Registro%20de%20Testes%20de%20Usabilidade.md
 </ul>
 
 
