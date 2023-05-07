@@ -142,9 +142,9 @@ Evidências:
 Evidências:
 
 <ul>
-<li><b>Plano de Testes de Software:</b> Ambientes e Ferramentas, . https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md</li>
+<li><b>Plano de Testes de Software:</b> Cenários de testes utilizados na realização dos testes da aplicação. https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md</li>
 
-<li><b>Plano de Testes de Usabilidade:</b> wireframe . https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md</li><br>
+<li><b>Plano de Testes de Usabilidade:</b> Permite avaliar a qualidade da interface com o usuário da aplicação interativa.https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md</li><br>
 
  
 <img src="/docs/img/sprint_3.png" width=80% height=50%>
