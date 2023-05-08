@@ -4,6 +4,16 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+Layout da página de login
+
+<img src="/docs/img/layout_pagina_login.png" width=80% height=50%>
+
+Layout da página de atividades
+
+<img src="/docs/img/layout_pagina_atividades.png" width=80% height=50%>
+
+
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
