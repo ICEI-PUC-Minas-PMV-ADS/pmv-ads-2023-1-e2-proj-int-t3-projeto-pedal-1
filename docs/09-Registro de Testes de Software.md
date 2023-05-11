@@ -16,6 +16,7 @@ Na figura a seguir a imagem da esquerda corresponde a interface para inserção 
 
 <br><br>
 A figura a seguir apresenta "prints" da tabela Proponentes antes e depois da inserção do registro 6 (Sergio Penido). 
+<br>
 <img src="/docs/img/teste_4.png" width=100% height=100%>
 
 
@@ -25,19 +26,23 @@ A figura a seguir apresenta "prints" da tabela Proponentes antes e depois da ins
 Neste teste foi inserido um novo roteiro na aplicação. Foi inserido uma atividadde noturna no Prado. 
 Na figura abaixo a imagem da esquerda mostra a interface para criação de um novo roteiro e as imanges da direita apresenta a tela Roteito/Index antes (superior) e depois (inferior) da inserção do registro. 
 
-
 <img src="/docs/img/teste_1.png" width=100% height=100%>
 
-
 <br><br>
-
-A figura a seguir apresenta "prints" da do banco de daodos antes e depois da inserção do registro 5 (Prado). 
+A figura a seguir apresenta "prints" da do banco de daodos antes e depois da inserção do registro 5 (Prado).
+<br>
 <img src="/docs/img/teste_2.png" width=100% height=100%>
 
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+Os testes de software realizados mostraram o desempenho satisfatório para muitas das funcionalidaddes básicas da aplicação. Falta ainda os itens abaixo para implementação e testes:
+- Login
+- Segurança
+- Implementação das regras de negócio
+- Utilização do template padrão da aplicação.
+
+Não foram implementadas ainda as regras de negorioesperado para as Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
