@@ -47,6 +47,11 @@ A figura a seguir apresenta "prints" da do banco de daodos antes e depois da ins
 
 ## Teste de Adesão a um Roterio por um Usuário
 
+A adesão de determinado usuário a um roterio foi testada nesta etapa. Com os conteúdos das tabelas usuário e roteiros foi ralizada a adesão. 
+Na figura a seguir a imagem da esquerda mostra a interface para realização da adesão e as imanges da direita acima apresenta a tabela Muitos-para-Muitos no banco de dados e abaixo as relações já estabelecidas entre usuários e o roteiro "Santa Tereza".
+
+<img src="/docs/img/teste_7.png" width=100% height=100%>
+
 
 ## Avaliação
 
