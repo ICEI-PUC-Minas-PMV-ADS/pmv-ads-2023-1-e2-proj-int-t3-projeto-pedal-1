@@ -18,7 +18,7 @@ A figura a seguir apresenta "prints" da tabela usuário do banco de dados antes 
 
 <img src="/docs/img/teste_6.png" width=100% height=100%>
 
-## Teste de Inserção de Novo Proponentes de Roteiros
+## Teste de Inserção de Novo Proponente de Roteiro
 
 Inicialmente foi realizado teste para inserção de proponente de roteiros na aplicação web. Foi inserido o registro Sergio Penido
 Na figura a seguir a imagem da esquerda corresponde a interface para inserção do novo registro e as imagens da direita a tela index antes (superior) e depois (inferior) da inserção do registro.
@@ -45,7 +45,7 @@ A figura a seguir apresenta "prints" da do banco de daodos antes e depois da ins
 <img src="/docs/img/teste_2.png" width=100% height=100%>
 
 
-## Teste de Adesão a um Roterio por um Usuário
+## Teste de Adesão a um Roterio por vários Usuário
 
 A adesão de determinado usuário a um roterio foi testada nesta etapa. Com os conteúdos das tabelas usuário e roteiros foi ralizada a adesão. 
 Na figura a seguir a imagem da esquerda mostra a interface para realização da adesão e as imanges da direita acima apresenta a tabela Muitos-para-Muitos no banco de dados e abaixo as relações já estabelecidas entre usuários e o roteiro "Santa Tereza".
