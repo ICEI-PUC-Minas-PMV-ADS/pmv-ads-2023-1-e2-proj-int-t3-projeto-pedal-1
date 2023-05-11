@@ -14,8 +14,8 @@ Na figura a seguir a imagem da esquerda corresponde a interface para inserção 
 <img src="/docs/img/teste_5.png" width=100% height=100%>
 
 <br><br>
-A figura a seguir apresenta "prints" da tabela usuário do banco de dados antes e depois da inserção do registro Ricaardo Lemos. 
-<br>
+A figura a seguir apresenta "prints" da tabela usuário do banco de dados antes e depois da inserção do registro número 24 Ricaardo Lemos. <br>
+
 <img src="/docs/img/teste_6.png" width=100% height=100%>
 
 ## Teste de Inserção de Novo Proponentes de Roteiros
