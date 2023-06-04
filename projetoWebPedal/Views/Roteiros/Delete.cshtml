@@ -1,0 +1,66 @@
+﻿@model projetoWebPedal.Models.Roteiro
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Deletar Roteiro</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Local)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Local)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PontoEncontro)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PontoEncontro)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Distancia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Distancia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dificuldade)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dificuldade)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Inicio)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Inicio)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Final)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Final)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Proponente)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Proponente.Email)
+        </dd class>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger"/> | <a asp-action="Index" class="btn btn-info">Voltar</a>
+    </form>
+</div>

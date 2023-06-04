@@ -1,0 +1,65 @@
+﻿@model projetoWebPedal.Models.Roteiro
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar Roteiro</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Local" class="control-label"></label>
+                <input asp-for="Local" class="form-control" />
+                <span asp-validation-for="Local" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PontoEncontro" class="control-label"></label>
+                <input asp-for="PontoEncontro" class="form-control" />
+                <span asp-validation-for="PontoEncontro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Data" class="control-label"></label>
+                <input asp-for="Data" class="form-control" />
+                <span asp-validation-for="Data" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Distancia" class="control-label">Distância (em metros)</label>
+                <input asp-for="Distancia" class="form-control" />
+                <span asp-validation-for="Distancia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Dificuldade" class="control-label"></label>
+                <select asp-for="Dificuldade" class="form-control" asp-items="Html.GetEnumSelectList<Dificuldade>()"></select>
+                <span asp-validation-for="Dificuldade" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Inicio" class="control-label"></label>
+                <input asp-for="Inicio" class="form-control" />
+                <span asp-validation-for="Inicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Final" class="control-label"></label>
+                <input asp-for="Final" class="form-control" />
+                <span asp-validation-for="Final" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProponenteId" class="control-label"></label>
+                <select asp-for="ProponenteId" class="form-control" asp-items="ViewBag.ProponenteId"></select>
+                <span asp-validation-for="ProponenteId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" /> | <a asp-action="Index" class="btn btn-info">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
