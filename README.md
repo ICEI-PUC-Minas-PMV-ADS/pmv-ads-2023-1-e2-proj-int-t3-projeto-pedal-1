@@ -15,10 +15,8 @@ Esta ferramenta dá ciência aos interessados dos passeios ciclísticos que est�
 
 ## Integrantes
 
-* Adriana Aparecida Lopes Rodrigues
 * André Policarpo Paiva Miranda
 * Dionisio Tadeu de Azevedo
-* Gabriella Bradley Cusnir
 * Mariana Rodrigues de Souza
 
 
