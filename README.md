@@ -65,7 +65,9 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 <ol>
 <li><a href="docs/01-Apresentação do Projeto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/02-Vídeo do Projeto.md"> [Especificação do Projeto<](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/presentation/Video_Projeto_Pedal.exe)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/presentadotion/Video_Projeto_Pedal.exe)/a></li>
+<li><a href="docs/02-Vídeo do Projeto.md"> [Especificação do Projeto<]/a></li>
+
+(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/presentation/Video_Projeto_Pedal.exe)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/presentadotion/Video_Projeto_Pedal.exe)
 
 </ol>
 
