@@ -66,6 +66,6 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 # Vídeo do Projeto
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="presentation/README.md"> https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/presentation/Video_Projeto_Pedal.exe)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t3-projeto-pedal-1/blob/main/presentation/Video_Projeto_Pedal.exe</a></li>
 
 
