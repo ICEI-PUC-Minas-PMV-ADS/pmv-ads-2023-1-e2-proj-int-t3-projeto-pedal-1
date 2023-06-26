@@ -56,11 +56,13 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
-
-
 # Pitch
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+# Apresentação Final do Projeto
+
+<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+
+
